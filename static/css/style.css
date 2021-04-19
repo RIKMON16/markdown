@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Karantina:wght@700&family=Raleway:ital,wght@0,400;0,600;1,400&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: black;
+    color: beige;
+}
+
+.justify {
+    text-align: justify;
+}
+
+h1, h3 {
+     color: yellowgreen;
+}
+
+hr {
+    color: red;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.pink {
+    color: purple;
+}
